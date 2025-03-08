@@ -3,6 +3,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Frontend development and grinding in software development<br>🌱 I’m currently learning Cyber security<br>💬 Ask me about anything you want
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4159703" style='border:none;'></iframe>
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/majdal-khalaf) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/majd.alkhalaf12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/majd-al-khalaf) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:majd03.hussain@gmail.com) [![website](https://img.shields.io/badge/Website-white?logo=website&logoColor=black)](https://majdkhalaf12.vercel.app) 
